@@ -1,2 +1,4 @@
 # Warriors0.2
-Forming code into classes
+
+This is a learning project I'm working on to practice inheritance and game development.  It's currently infested with bugs.
+
